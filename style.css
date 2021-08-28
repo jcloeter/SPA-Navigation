@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: serif;
+  font-size: 1.8rem;
+}
+
+.navigation {
+  height: 3rem;
+  margin-top: 2rem;
+}
+
+a {
+  font-size: 1.8rem;
+  text-decoration: none;
+  /* margin: 1rem; */
+  padding: 1rem;
+  color: black;
+  border: black solid;
+}
